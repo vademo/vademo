@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, lets talk 👋
 
+ - ⚡️Node.js, Javascript, php, Arduino, Rust 🦀 
+ - 👊 I like a challenge. Ask me something I don't know to spike my interest 
+ - 👨‍💻 Currently working as lead Node.js developer - Digipolis Antwerp (freelance)
 <!--
 **vademo/vademo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
